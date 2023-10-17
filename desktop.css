@@ -21,7 +21,7 @@
 
 }
 .navbar-menu{
-    flex-direction: row;
+    flex-direction: column;
     justify-content: flex-end;
 }
 .navbar-menu a{
